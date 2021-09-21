@@ -1,3 +1,6 @@
+#install pandas library
+pip install pandas 
+
 # Import libraries
 import pandas as pd
 
